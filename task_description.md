@@ -49,6 +49,6 @@ val join : 'a queue -> 'a queue -> 'a queue (** [join q1 q2] zwraca złączenie 
 
 val is_empty : 'a queue -> bool (** Zwraca [true] jeśli dana kolejka jest pusta. W przeciwnym razie [false] *) 
 ```
-(specyfikacja ta znajduje się również w pliku [**leftist.mli**](TODO))
+(specyfikacja ta znajduje się również w pliku [**leftist.mli**](https://github.com/kfernandez31/WPF-2-Leftist-Trees/blob/main/src/leftist.mli))
 
 Termin oddania zadania ustala prowadzący — 2 tygodnie po ogłoszeniu.

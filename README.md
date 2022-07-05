@@ -4,7 +4,7 @@ What you see is a repository of my solution for task no. 2. of the [Introduction
 
 # Brief description
 
-The task was to TODO
+The task was to implement a joinable priority queue based on [leftist trees](https://en.wikipedia.org/wiki/Leftist_tree).
 
 # Full description 
 
